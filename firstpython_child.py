@@ -1,1 +1,1 @@
-print("hello child")
+print("hello new child")
